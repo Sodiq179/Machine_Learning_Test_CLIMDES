@@ -1,6 +1,6 @@
 <p  align="center">
 
-<img  src="images/internship.png"  alt="Internship Landing page"  height=312  width=820/>
+<img  src="images/internship.jpeg"  alt="Internship Landing page"  height=312  width=820/>
 
 </p> 
 
