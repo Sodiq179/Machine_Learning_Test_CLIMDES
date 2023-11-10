@@ -96,6 +96,6 @@ df = simulator.generate_data()
 
 
 #### Save the Dataset
-df.to_csv("InternshipDataset.csv")
+df.to_csv("InternshipDataset.csv", index = False)
 
 print("Successful")
