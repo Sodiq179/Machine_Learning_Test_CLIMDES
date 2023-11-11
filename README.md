@@ -25,9 +25,9 @@ To use the application, you can access it directly via the [application link](ht
 
 If you wish to run the application locally, follow these steps:
 
-1. Clone the repository: `git clone <repository_link>`.
+1. Clone the repository: `git clone https://github.com/Sodiq179/Machine_Learning_Test_CLIMDES`.
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
-3. Run the application using `python app.py`.
+3. Run the application using `streamlit run app.py`.
 
 ## Usage
 
